@@ -18,6 +18,6 @@ BREAKDOWN:
 Item Name | Qty | Price | Amount
 Subscription | 1 | $329.99 | $329.99
 
-TOTAL DUE: $329.99
+TOTAL DUE: $329.99. 
 
 This is an automated billing notice for reference.
