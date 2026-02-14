@@ -1,15 +1,5 @@
-Author: Account-activity-0notice
-Date: Billing Notice
 
-Changed paths:
-M README.md
-
-Log Message:
-Payment summary available
-
--------------------------------------
-
-BILLING SUMMARY:
+BILLING SUMMARY: @irfanmd72379100@aol.com
 Amount Charged: $329.99 | Merchant: Online Services
 
 NOTICE:
